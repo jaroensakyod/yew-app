@@ -1,0 +1,10 @@
+c:\Users\ASUS\Desktop\yew-app\target\debug\deps\version_check-0c7bb8b4727181dd.rmeta: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\version.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\channel.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\date.rs
+
+c:\Users\ASUS\Desktop\yew-app\target\debug\deps\libversion_check-0c7bb8b4727181dd.rlib: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\version.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\channel.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\date.rs
+
+c:\Users\ASUS\Desktop\yew-app\target\debug\deps\version_check-0c7bb8b4727181dd.d: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\version.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\channel.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\date.rs
+
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\version.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\channel.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\date.rs:
